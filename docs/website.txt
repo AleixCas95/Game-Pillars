@@ -1,0 +1,28 @@
+The header of the website should contain the following signature:
+“I am <link to your linkedIn>(NAME LASTNAME), student of the
+<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in
+Video Games by UPC at CITM). This content is generated for the second year’s
+subject Project 2, under supervision of lecturer
+<https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).”
+
+
+--------------------------------------------------------------------------
+
+The website should be a tutorial that
+explains the problem and solution
+with much visuals as you need.
+- Focus on simplicity, your audience is
+not only the class but all aspiring
+game developers
+
+
+--------------------------------------------------------------------------
+
+You need to create a website under github.com with:
+- Intro to the problem
+- Different approaches by different games (use animated gifs when possible)
+- Description in detail for the selected approach
+- Links to more documentation
+- TODOs and Solution inside the repository as VS projects
+- Optional Homework for practicing
+- Explanation of any other improvements on the system
