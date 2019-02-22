@@ -1,0 +1,7 @@
+Initial presentations can involve only theoretical concepts.
+- In this case they should involve an exercise to do in class lasting 10-15
+minutes.
+- Material provided should be useful for all teams in their development.
+- All student should learn something new, avoid explaining obvious
+concepts that students used to play games already know.
+- Never copy content without a citation
