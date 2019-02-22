@@ -1,0 +1,6 @@
+Games production always start with a set of 3-8 core pillars
+- Those act as filters to discard new ideas during development
+- Which game pillars were defined in professional games ?
+- What would be a bad game pillar ? How is this useful for our teams ?
+
+
