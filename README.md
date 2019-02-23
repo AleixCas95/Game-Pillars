@@ -6,7 +6,7 @@
 
 ## Game Pillars, the concept.
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars_of_a_game.png)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars_of_a_game.png?raw=true)
 
 
 ### “What is the game?”
@@ -29,13 +29,13 @@ As arleady mentioned before, every videogame has a diferent set of game pillars.
 Most of the cases each progessional game, each videogame development process has a GDD, that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
 
 #### Five general concepts of game pillars (Team based):
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/conceptsgamepillars.png)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/conceptsgamepillars.png?raw=true)
 
 Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars from well-known games:
 
 ### Legend of Zelda: Breath of the Wild
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Zelda.jpg)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Zelda.jpg?raw=true)
 
 __Exploration:__ Player are encouraged to explore, by being able to go to any area they wish whenever they wish.
 
@@ -49,7 +49,7 @@ __Combat:__ Now you have loads of combat in this game and a number of enemy. Les
 
 ### The Last of Us:
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/LoU.jpg)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/LoU.jpg?raw=true)
 
 __Crafting:__ Ammo is scarce, so to distract or cause a higher amount of damage to one’s foes it is better to use items populating the world. This works in unison with the environmental story telling of how this is not many resources left in this world.
 
@@ -61,7 +61,7 @@ __Stealth:__ Combat is used in this game, but if you were to run and gun, then t
 
 ### The Binding of Isaac Rebirth
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/isaac.jpg)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/isaac.jpg?raw=true)
 
 __Story:__ The Binding of Isaac Rebirth has a simple history like the original game, easy to remember and clear for all the players who play it and the one's who don't. Character crying who has to escape from his mother.
 
@@ -75,7 +75,7 @@ __Pause:__ Seems like something common but this remake has the option of pause. 
 ### There are some company's, studios with their own Game Pillars for all their projects.
 
 ##### Streamline Studios:
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/1200px-Streamline_studios_newest_logo.png)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/1200px-Streamline_studios_newest_logo.png?raw=true)
 
 3 Pillars of Great Video Game Design
 
@@ -95,7 +95,7 @@ __3. Concept:__
 
 ##### Paradox Game pillars
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/paradox%20game%20pillars.jpg)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/paradox%20game%20pillars.jpg?raw=true)
 
 
 ## Why we have to establish a good set of Game Pillars?
