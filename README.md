@@ -30,7 +30,7 @@ All the projects starts with a set of concepts, game pillars, where every part o
 
 
 As arleady mentioned before, every videogame has a diferent set of game pillars. 
-Most of the cases each progessional game, each videogame development process has a GDD(Game Design Document), that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
+Most of the cases each progessional game, each videogame development process has a __GDD__(__Game Design Document__), that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
 
 #### An example how important is the GDD:
 
