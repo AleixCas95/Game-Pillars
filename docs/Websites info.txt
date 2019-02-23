@@ -5,3 +5,5 @@ https://www.paradoxinteractive.com/en/game-pillars/
 https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
 
 http://technicalgamedesign.blogspot.com/2011/04/pillars.html
+
+https://en.wikipedia.org/wiki/Game_design_document
