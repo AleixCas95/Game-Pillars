@@ -6,7 +6,7 @@
 
 ## Game Pillars, the concept.
 
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars%20of%20a%20gaee.png) 
+<img src="pillars of a gaee.png" width="800" />
 
 
 ### “What is the game?”
