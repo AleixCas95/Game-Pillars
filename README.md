@@ -73,7 +73,7 @@ __Story:__ The Binding of Isaac Rebirth has a simple history like the original g
 
 __Shooter:__ RPG shooter with heavy roguelike elements.(Dunegon crawl through procedurally generated levels, turned-based gameplay, tile-based graphics, and permanent death of the player character).
 
-__Random factor:__ Although the hisotry is always the same, the way is always different. A large amount of items obtained randomly across the game make the player feel a diferent gameplay every time he plays.
+__Random factor:__ Although the history is always the same, the way is always different. A large amount of items obtained randomly across the game make the player feel a diferent gameplay every time he plays.
 
 __Pause:__ Seems like something common but this remake has the option of pause. Being able to pause but not save makes the game less heavy if the player wants to make a runa pause is not obligated to play without being able to stop.
 
