@@ -12,5 +12,4 @@ Some times people thinks taht Game Pillars and concepts like Unique Selling Poin
 
 Game basis(Game Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
 
-
-https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars%20of%20a%20gaee.png "Pillars"
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars%20of%20a%20gaee.png) 
