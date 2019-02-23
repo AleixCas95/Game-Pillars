@@ -6,7 +6,7 @@
 
 ## Game Pillars, the concept.
 
-<img src="pillars of a gaee.png" width="800" />
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars_of_a_game.png)
 
 
 ### “What is the game?”
@@ -29,7 +29,7 @@ As arleady mentioned before, every videogame has a diferent set of game pillars.
 Most of the cases each progessional game, each videogame development process has a GDD, that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
 
 #### Five general concepts of game pillars (Team based):
-![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/concepts%20game%20pillars.png)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/conceptsgamepillars.png)
 
 Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars from well-known games:
 
