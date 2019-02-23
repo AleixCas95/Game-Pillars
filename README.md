@@ -33,18 +33,25 @@ Every professional game has his own game pillars, therefore we can not make a se
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Zelda.jpg)
 
 __Exploration:__ Player are encouraged to explore, by being able to go to any area they wish whenever they wish.
+
 __Traversal movement:__  Breath of the Wild offers so many modes of transport, each being as fun as one another. From, climbing, swimming, running, paragliding to the amazing shield surfing.
+
 __Scavenging:__ Players are constantly needing to go through the world and search for items. From weapons which break after a few battles, to the food players must use to regain health or help them traverse through all kind of environmental hazards.
+
 __Options:__ This game is praised all around for a number of options that are given to the player. From multiple ways to solve puzzles to the combat scenarios or how the player makes their way around the world.
+
 __Combat:__ Now you have loads of combat in this game and a number of enemy. Lesser pillar in a general opion but still fighting .
 
 ### The Last of Us:
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/LoU.jpg)
 
-__Crafting:__ Ammo is scarce, so to distract or cause a higher amount of damage to one’s foes it is better to use items populating the world. This works in unison with the environmental story telling of how this is not many resources left in this world
+__Crafting:__ Ammo is scarce, so to distract or cause a higher amount of damage to one’s foes it is better to use items populating the world. This works in unison with the environmental story telling of how this is not many resources left in this world.
+
 __Story:__ Last of Us is a linear game which is heavily narrative lead, they want everything to tie in with the story as mentioned with crafting. The game focuses on the story of the two main characters rather than the player’s own story.
-__AI partners:__ The game is all about building a relationship between the player’s character with the AI partner Ellie and other partners you meet throughout your journey
+
+__AI partners:__ The game is all about building a relationship between the player’s character with the AI partner Ellie and other partners you meet throughout your journey.
+
 __Stealth:__ Combat is used in this game, but if you were to run and gun, then the game would make your life extremely difficult. So player are encouraged to play more stealthily
 
 ## Why we have to establish a good set of Game Pillars?
