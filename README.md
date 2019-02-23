@@ -11,16 +11,16 @@
 
 ### “What is the game?”
 
-This is the most frequent question that you and your team will consider during the beginning of video game creation.
+This is one the most frequent question that you and your team will consider during the beginning of video game creation.
 There are more than oen way to  answer this quiestion but one of the most important aspect to look for is the __Game Pillars_.
 
-The foundations of a games are known as game pillars also knwon as basis of the game.
-Some times people thinks taht game pillars and concepts like Unique Selling Points are the same, but it doesn't.
+The foundations of a games are known as __game pillars__ also knwon as basis of the game.
+Some times people thinks that game pillars and concepts like Unique Selling Points are the same, but they don't.
 
-Game basis(Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
+__Game basis__(Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
 
 Every company, developers, every game, has a different set of Game Pilars depending of what concepts they want to base their game.
-Every project starts with a set of concepts, game pillars, where every part of the group that is developing the game will agree and leave there to develop the game together as a team with the same objective.
+All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will agree and leave there to develop the game together as a team with the same objective.
 
 
 # Which Game Pillars were defined in professional games ?
