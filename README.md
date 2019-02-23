@@ -56,7 +56,7 @@ __Stealth:__ Combat is used in this game, but if you were to run and gun, then t
 
 ### The Binding of Isaac Rebirth
 
-![](+https://github.com/AleixCas95/Game-Pillars/blob/master/docs/isaac.jpg)
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/isaac.jpg)
 
 __Story:__ The Binding of Isaac Rebirth has a simple history like the original game, easy to remember and clear for all the players who play it and the one's who don't. Character crying who has to escape from his mother.
 
