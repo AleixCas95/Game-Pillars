@@ -26,7 +26,7 @@ Most of the cases each progessional game, each videogame development process has
 #### Five general concepts of game pillars (Team based):
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/concepts%20game%20pillars.png)
 
-Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars of well-known games:
+Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars from well-known games:
 
 ### Legend of Zelda: Breath of the Wild
 
@@ -91,6 +91,10 @@ __3. Concept:__
 ##### Paradox Game pillars
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/paradox%20game%20pillars.jpg)
+
+
 ## Why we have to establish a good set of Game Pillars?
+
+## What would be a bad game pillar ? How is this useful for our teams ?
 
 
