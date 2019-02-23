@@ -78,7 +78,6 @@ __1. Gameplay:__
 "Is it possible to make a game so intuitive to play you jump into the game, and you’re completely immersed from the start? Maybe not, but I believe that should be the goal of every great game design. It’s truly a fundamental part of games that is often overlooked. People will talk story (so will we in a moment) and art and atmosphere when they discuss game design, but the gameplay makes the difference. Good gameplay design gets you into the game fast, and you forget about it. It’s seamless. What can be more fundamental and critical in game design?"
 
 __2. Dimensionality:__
-
 " Gameplay gets them into the game, but dimensionality propels the player into another world. The perfect balance achieved, and the player is barely aware of the game at all, the player becomes part of the game. To bring a player to this state, it’s important to understand all the elements of a game’s dimensionality must work together. Anything superfluous must go.
 
 A great game can be a crude sketch, a simple world of 8-bit depth, but even in the most straightforward game the right dimensionality draws a player into the game and provides a memorable experience.
