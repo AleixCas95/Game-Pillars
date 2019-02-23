@@ -7,3 +7,5 @@ https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Cor
 http://technicalgamedesign.blogspot.com/2011/04/pillars.html
 
 https://en.wikipedia.org/wiki/Game_design_document
+
+https://www.reddit.com/r/gamedesign/comments/9rwo1m/explaining_design_pillars_in_game_development/
