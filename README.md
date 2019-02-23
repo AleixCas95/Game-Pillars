@@ -25,14 +25,20 @@ All the projects starts with a set of concepts, game pillars, where every part o
 
 # Which Game Pillars were defined in professional games ?
 
-As arleady mentioned before, every videogame has a diferent set of game pillars. 
-Most of the cases each progessional game, each videogame development process has a GDD, that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
-
 #### Five general concepts of game pillars (Team based):
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/conceptsgamepillars.png?raw=true)
 
-Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars from well-known games:
 
+As arleady mentioned before, every videogame has a diferent set of game pillars. 
+Most of the cases each progessional game, each videogame development process has a GDD(Game Design Document), that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
+
+#### An example how important is the GDD:
+
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/tdd-and-gdd-1.png?raw=true)
+
+Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars from __well-known games__:
+
+## Example of the Pillars in a professional games:
 ### Legend of Zelda: Breath of the Wild
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Zelda.jpg?raw=true)
