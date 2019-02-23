@@ -67,8 +67,31 @@ __Random factor:__ Although the hisotry is always the same, the way is always di
 __Pause:__ Seems like something common but this remake has the option of pause. Being able to pause but not save makes the game less heavy if the player wants to make a runa pause is not obligated to play without being able to stop.
 
 
+### There are some company's, studios with their own Game Pillars for all their projects.
+
+##### Streamline Studios:
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/1200px-Streamline_studios_newest_logo.png)
+
+3 Pillars of Great Video Game Design
+
+__1. Gameplay:__ 
+"Is it possible to make a game so intuitive to play you jump into the game, and you’re completely immersed from the start? Maybe not, but I believe that should be the goal of every great game design. It’s truly a fundamental part of games that is often overlooked. People will talk story (so will we in a moment) and art and atmosphere when they discuss game design, but the gameplay makes the difference. Good gameplay design gets you into the game fast, and you forget about it. It’s seamless. What can be more fundamental and critical in game design?"
+
+__2. Dimensionality:__
+
+" Gameplay gets them into the game, but dimensionality propels the player into another world. The perfect balance achieved, and the player is barely aware of the game at all, the player becomes part of the game. To bring a player to this state, it’s important to understand all the elements of a game’s dimensionality must work together. Anything superfluous must go.
+
+A great game can be a crude sketch, a simple world of 8-bit depth, but even in the most straightforward game the right dimensionality draws a player into the game and provides a memorable experience.
+
+Let’s play that again; the greatest compliment a game designer can hear. "
+
+__3. Concept:__
+" When I was a kid, I started out in an advertising agency that was devoted to the Big Idea. The Big Idea was everything. It was  undeniable. It was unique. It set an impossible standard, but it served an exact purpose. Unless your idea resonated, breathed, had its own momentum, you shelved it and looked for another one. "
 
 
+##### Paradox Game pillars
+
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/paradox%20game%20pillars.jpg)
 ## Why we have to establish a good set of Game Pillars?
 
 
