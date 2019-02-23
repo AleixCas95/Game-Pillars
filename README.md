@@ -23,7 +23,7 @@ Every project starts with a set of concepts, game pillars, where every part of t
 As arleady mentioned before, every videogame has a diferent set of game pillars. 
 Most of the cases each progessional game, each videogame development process has a GDD, that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
 
-#### Five general concepts of game pillars(Team based):
+#### Five general concepts of game pillars (Team based):
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/concepts%20game%20pillars.png)
 
 Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars of well-known games:
@@ -53,6 +53,21 @@ __Story:__ Last of Us is a linear game which is heavily narrative lead, they wan
 __AI partners:__ The game is all about building a relationship between the player’s character with the AI partner Ellie and other partners you meet throughout your journey.
 
 __Stealth:__ Combat is used in this game, but if you were to run and gun, then the game would make your life extremely difficult. So player are encouraged to play more stealthily
+
+### The Binding of Isaac Rebirth
+
+![](+https://github.com/AleixCas95/Game-Pillars/blob/master/docs/isaac.jpg)
+
+__Story:__ The Binding of Isaac Rebirth has a simple history like the original game, easy to remember and clear for all the players who play it and the one's who don't. Character crying who has to escape from his mother.
+
+__Shooter:__ RPG shooter with heavy roguelike elements.(Dunegon crawl through procedurally generated levels, turned-based gameplay, tile-based graphics, and permanent death of the player character).
+
+__Random factor:__ Although the hisotry is always the same, the way is always different. A large amount of items obtained randomly across the game make the player feel a diferent gameplay every time he plays.
+
+__Pause:__ Seems like something common but this remake has the option of pause. Being able to pause but not save makes the game less heavy if the player wants to make a runa pause is not obligated to play without being able to stop.
+
+
+
 
 ## Why we have to establish a good set of Game Pillars?
 
