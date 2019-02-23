@@ -38,7 +38,7 @@ Most of the cases each progessional game, each videogame development process has
 
 Every professional game has his own game pillars, therefore we can not make a set of game pillars as standards but here you can find some example of a game pillars from __well-known games__:
 
-## Example of the Pillars in a professional games:
+## Example of the Game Pillars in a professional games:
 ### Legend of Zelda: Breath of the Wild
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Zelda.jpg?raw=true)
