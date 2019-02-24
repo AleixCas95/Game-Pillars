@@ -12,14 +12,14 @@
 ### “What is the game?”
 
 This is one the most frequent question that you and your team will consider during the beginning of video game creation.
-There are more than one way to  answer this question but one of the most important aspect to look for is the __Game Pillars__.
+There is more than one way to  answer this question but one of the most important aspect to look for is the __Game Pillars__.
 
 The foundations of a games are known as __game pillars__ also knwon as basis of the game.
-Some times people thinks that game pillars and concepts like Unique Selling Points are the same, but they don't.
+Some times people thinks that __game pillars__ and concepts like __Unique Selling Points__ are the same, but they are not.
 
 __Game basis__(Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
 
-Every company, developers, every game, has a different set of Game Pilars depending of what concepts they want to base their game.
+Every company, developers, every game, has a different set of game pillars depending of what concepts they want to base their game.
 All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will __agreed, supported and designed__ around in order to develop the game together as a team with the same objective.
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/puzzle.png?raw=true)
