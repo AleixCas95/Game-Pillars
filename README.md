@@ -155,4 +155,5 @@ It is for this reason that every moment of the videogames development process, t
 [https://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php
 ](https://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php)
 
-https://www.youtube.com/watch?v=_EtxKlctpXw
+[https://www.youtube.com/watch?v=_EtxKlctpXw
+](https://www.youtube.com/watch?v=_EtxKlctpXw)
