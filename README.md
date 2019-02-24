@@ -4,7 +4,7 @@
 
 
 
-## Game Pillars, the concept.
+## Game Pillars, the concept
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/pillars_of_a_game.png?raw=true)
 
@@ -20,11 +20,11 @@ Some times people thinks that game pillars and concepts like Unique Selling Poin
 __Game basis__(Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
 
 Every company, developers, every game, has a different set of Game Pilars depending of what concepts they want to base their game.
-All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will agreed, supported and designed around in order to develop the game together as a team with the same objective.
+All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will __agreed, supported and designed__ around in order to develop the game together as a team with the same objective.
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/puzzle.png?raw=true)
 
-It should also be clear that your game pillars must be "your first and last stop for the game design decisions".
+It should also be clear that your game pillars must be __"your first and last stop for the game design decisions".__
 
 
 # Which Game Pillars were defined in professional games ?
@@ -34,7 +34,7 @@ It should also be clear that your game pillars must be "your first and last stop
 
 
 As arleady mentioned before, every videogame has a diferent set of game pillars. 
-Most of the cases each progessional game, each videogame development process has a __GDD__(__Game Design Document__), that is created and edited by the development team(in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
+Most of the cases each progessional game, each videogame development process has a __GDD__(__Game Design Document__), that is created and edited by the development team (in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
 
 #### An example how important is the GDD:
 
@@ -116,20 +116,28 @@ __3. Concept:__
 
 These questions, together with the one is mentioned above, are the questions that are asked mainly when facing the start of the creation of a video game.
 
-The answer to these questions may vary depending on where they are asked, but in summary, good game pillars form the global set of foundations makes people work together, in the same direcction and unanimously. It also serves as a guide as long as the project goes. Another good reason to make a good pillars is to avoid the last-minute inventions.(Not always are bad) Howerver, these pillars are not static so at some point and in a cohesive way they will be able to change throughout the project.
+The answer to these questions may vary depending on where they are asked, but in summary, good game pillars form the __global set of foundations__ makes people work together, in the same direcction and unanimously. It also serves as a guide as long as the project goes. Another good reason to make a good pillars is to avoid the last-minute inventions.(Not always are bad) Howerver, these __pillars are not static__ so at some point and in a cohesive way they will be able to change throughout the project.
 It is for this reason that every moment of the videogames development process, the game's pillars must be taken into account.
 
 
 
 
 
-## What would be a bad game pillar ? 
+## What would be a bad game pillar and how to solve it  ? 
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/badpillarsimg.png?raw=true)
 
-Once we know about what the ideal game pillars are, we can define what could be bad game pillars.
+Once we know about what the ideal game pillars are, we can define __what could be bad game pillars__ and how to solve them:
 
+Basing your game with __"it will be just another game"__, it must be a game that makes its own name. Your game must be unique, make players remember your game for several reasons, like the gameplay, the mechanics, the history, some factor/s that makes your game special.
 
+The __game must be fun__, a game that makes players feel bored and out of the game can't be a good pillar to be based on. Although, saying that your game will be fun is not enought, words are words and people can not be based on words. For that fact, make sure that the concepts starts with an unique and basic base and you have proven that they work.
+
+__Simplify your ideas__, your game pillars can not be extended concepts that people takes its like a start, like "make a good UI", start with "create a functional UI" and move on from there.
+
+__Expose your ideas__, make sure that all the members of your team understand what to do and what is the concept. Don't let people work withouth a clear or basic idea of what they should do or what are they doing every moment of the process.
+
+Don't make concepts like __"it would be cool if the players flys"__, if the answer to why is, "because yes, or because it would be cool" do not take it as a good example to how base your game on.
 
 
 ## How is this useful for our teams ?
