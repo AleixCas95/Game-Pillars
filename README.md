@@ -148,22 +148,22 @@ Don't make concepts like __"it would be cool if the players flys"__, if the answ
 ## How is this useful for our teams ?
 
 Using what we learned we can apply to our projects as a team and from a good base.
-To create or design a good set of _game pillars__ we need to do it in a certain order:
+To create or design a good set of __game pillars__ we need to do it in a certain order:
 
-- First:
+- __First:__
 
 We need to get ideas in common to stablish what the game will be about and in which direction the team want to lead it.
 Give simply general ideas, gameplay, mechanics...
 Make 3 - 8 of that points your game pillars and start from there.
 Make sure that you can afford or be close to afford them.
 
-- Second:
+- __Second:__
 
 While in progress make sure that the ideas are working and they fulfill the previously marked goals.
 Don't forget testing it internally and make a general idea of how it's working every moment of the development.
 Do not be affraid of the changes, if an idea can be changed for a better one, do not hesitate to ask and change it, as it is said, game pillars are not a static foundations.
 
-- Third:
+- __Third:__
 
 Make sure that the target you are oriented to, test the game and give you feedback to improve or reorganize your game.
 
