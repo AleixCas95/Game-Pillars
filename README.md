@@ -122,7 +122,6 @@ It is for this reason that every moment of the videogames development process, t
 
 
 
-
 ## What would be a bad game pillar and how to solve it  
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/badpillarsimg.png?raw=true)
@@ -137,12 +136,35 @@ __Simplify your ideas__, your game pillars can not be extended concepts that peo
 
 __Expose your ideas__, make sure that all the members of your team understand what to do and what is the concept. Don't let people work withouth a clear or basic idea of what they should do or what are they doing every moment of the process.
 
-Don't make concepts like __"it would be cool if the players flys"__, if the answer to why is, "because yes, or because it would be cool" do not take it as a good example to how base your game on.
+Don't make concepts like __"it would be cool if the players flys"__, if the answer to why is, "because yes, or because it would be cool" do not take it as a good example to: how base your game on.
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Diagram.png?raw=true)
+
+
+
 ## How is this useful for our teams ?
 
+Using what we learned we can apply to our projects as a team and from a good base.
+To create or design a good set of _game pillars__ we need to do it in a certain order:
 
+- First:
+
+We need to get ideas in common to stablish what the game will be about and in which direction the team want to lead it.
+Give simply general ideas, gameplay, mechanics...
+Make 3 - 8 of that points your game pillars and start from there.
+Make sure that you can afford or be close to afford them.
+
+- Second:
+
+While in progress make sure that the ideas are working and they fulfill the previously marked goals.
+Don't forget testing it internally and make a general idea of how it's working every moment of the development.
+Do not be affraid of the changes, if an idea can be changed for a better one, do not hesitate to ask and change it, as it is said, game pillars are not a static foundations.
+
+- Third:
+
+Make sure that the target you are oriented to, test the game and give you feedback to improve or reorganize your game.
+
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Diagram2.png?raw=true)
 
 
 ## Bibliography
