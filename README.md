@@ -153,7 +153,7 @@ To create or design a good set of __game pillars__ we need to do it in a certain
 
 - __First:__
 
-We need to get ideas in common to stablish what the game will be about and in which direction the team want to lead it.
+We need to get ideas in common to establish what the game will be about and in which direction the team want to lead it.
 Give simply general ideas, gameplay, mechanics...
 Make 3 - 8 of that points your game pillars and start from there.
 Make sure that you can afford or be close to afford them.
