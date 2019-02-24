@@ -201,4 +201,4 @@ Make sure that you are focusing the target you are oriented to, test the game an
 [https://www.youtube.com/watch?v=_EtxKlctpXw
 ](https://www.youtube.com/watch?v=_EtxKlctpXw)
 
-[Aleix Castillo ppt](https://docs.google.com/presentation/d/1CW6_g3OTqB2Uqfm5EiBVSIJOcZ9_e7QYCcuu3ABUONo/edit#slide=id.g4ce7eeb746_0_83)
+[Aleix Castillo ppt](https://docs.google.com/presentation/d/1CW6_g3OTqB2Uqfm5EiBVSIJOcZ9_e7QYCcuu3ABUONo/edit#slide=id.p)
