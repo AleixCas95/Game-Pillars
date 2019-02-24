@@ -123,9 +123,16 @@ It is for this reason that every moment of the videogames development process, t
 
 
 
-## What would be a bad game pillar ? How is this useful for our teams ?
+## What would be a bad game pillar ? 
+
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/badpillars.png?raw=true)
+
+Once we know about what the ideal game pillars are, we can define what could be bad game pillars.
 
 
+
+
+## How is this useful for our teams ?
 
 
 ## Bibliography
