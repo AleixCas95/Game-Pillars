@@ -123,7 +123,7 @@ It is for this reason that every moment of the videogames development process, t
 
 
 
-## What would be a bad game pillar and how to solve it  ? 
+## What would be a bad game pillar and how to solve it  
 
 ![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/badpillarsimg.png?raw=true)
 
@@ -139,8 +139,10 @@ __Expose your ideas__, make sure that all the members of your team understand wh
 
 Don't make concepts like __"it would be cool if the players flys"__, if the answer to why is, "because yes, or because it would be cool" do not take it as a good example to how base your game on.
 
-
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/Diagram.png)
 ## How is this useful for our teams ?
+
+
 
 
 ## Bibliography
