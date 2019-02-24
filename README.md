@@ -20,7 +20,11 @@ Some times people thinks that game pillars and concepts like Unique Selling Poin
 __Game basis__(Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
 
 Every company, developers, every game, has a different set of Game Pilars depending of what concepts they want to base their game.
-All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will agree and leave there to develop the game together as a team with the same objective.
+All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will agreed, supported and designed around in order to develop the game together as a team with the same objective.
+
+![](https://github.com/AleixCas95/Game-Pillars/blob/master/docs/puzzle.png?raw=true)
+
+It should also be clear that your game pillars must be "your first and last stop for the game design decisions".
 
 
 # Which Game Pillars were defined in professional games ?
@@ -110,7 +114,7 @@ __3. Concept:__
 
 - Why do I need to limit my game to these amount of categories? 
 
-These questions, together with the one I mentioned above, are the questions that are asked mainly when facing the start of the creation of a video game.
+These questions, together with the one is mentioned above, are the questions that are asked mainly when facing the start of the creation of a video game.
 
 The answer to these questions may vary depending on where they are asked, but in summary, good game pillars form the global set of foundations makes people work together, in the same direcction and unanimously. It also serves as a guide as long as the project goes. Another good reason to make a good pillars is to avoid the last-minute inventions.(Not always are bad) Howerver, these pillars are not static so at some point and in a cohesive way they will be able to change throughout the project.
 It is for this reason that every moment of the videogames development process, the game's pillars must be taken into account.
