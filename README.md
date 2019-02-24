@@ -12,7 +12,7 @@
 ### “What is the game?”
 
 This is one the most frequent question that you and your team will consider during the beginning of video game creation.
-There are more than oen way to  answer this quiestion but one of the most important aspect to look for is the __Game Pillars__.
+There are more than one way to  answer this question but one of the most important aspect to look for is the __Game Pillars__.
 
 The foundations of a games are known as __game pillars__ also knwon as basis of the game.
 Some times people thinks that game pillars and concepts like Unique Selling Points are the same, but they don't.
