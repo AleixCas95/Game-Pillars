@@ -15,9 +15,10 @@ This is one the most frequent question that you and your team will consider duri
 There is more than one way to  answer this question but one of the most important aspect to look for is the __Game Pillars__.
 
 The foundations of a games are known as __game pillars__ also knwon as basis of the game.
+
 Some times people thinks that __game pillars__ and concepts like __Unique Selling Points__ are the same, but they are not.
 
-__Game basis__(Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
+__Game basis__ (Game Design Pillars) are the first concepts every videogame need. In general, there are and average of 3 - 8 primary and fundamental concepts that every game wants and need to be based on. Those also act as filters to discard new ideas during the development.
 
 Every company, developers, every game, has a different set of game pillars depending of what concepts they want to base their game.
 All the projects starts with a set of concepts, game pillars, where every part of the group that is developing the game will __agreed, supported and designed__ around in order to develop the game together as a team with the same objective.
@@ -34,7 +35,7 @@ It should also be clear that your game pillars must be __"your first and last st
 
 
 As arleady mentioned before, every videogame has a diferent set of game pillars. 
-Most of the cases each progessional game, each videogame development process has a __GDD__(__Game Design Document__), that is created and edited by the development team (in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
+Most of the cases each progessional game, each videogame development process has a __GDD__ (__Game Design Document__), that is created and edited by the development team (in our case will be the designer of the game) to  use it as a guide of the general vision during the game development process.
 
 #### An example how important is the GDD:
 
