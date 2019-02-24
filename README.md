@@ -106,6 +106,19 @@ __3. Concept:__
 
 ## Why we have to establish a good set of Game Pillars?
 
+- So why is it important to figure this out? 
+
+- Why do I need to limit my game to these amount of categories? 
+
+These questions, together with the one I mentioned above, are the questions that are asked mainly when facing the start of the creation of a video game.
+
+The answer to these questions may vary depending on where they are asked, but in summary, good game pillars form the global set of foundations makes people work together, in the same direcction and unanimously. It also serves as a guide as long as the project goes. Another good reason to make a good pillars is to avoid the last-minute inventions.(Not always are bad) Howerver, these pillars are not static so at some point and in a cohesive way they will be able to change throughout the project.
+It is for this reason that every moment of the videogames development process, the game's pillars must be taken into account.
+
+
+
+
+
 ## What would be a bad game pillar ? How is this useful for our teams ?
 
 
