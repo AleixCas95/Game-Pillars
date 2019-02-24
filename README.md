@@ -131,12 +131,21 @@ It is for this reason that every moment of the videogames development process, t
 ## Bibliography
 
 https://www.researchthroughgaming.com/the-science-of-what-we-do/
+
 https://www.paradoxinteractive.com/en/game-pillars/
+
 https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php
+
 http://technicalgamedesign.blogspot.com/2011/04/pillars.html
+
 https://en.wikipedia.org/wiki/Game_design_document
+
 https://www.reddit.com/r/gamedesign/comments/9rwo1m/explaining_design_pillars_in_game_development/
+
 https://bindingofisaacrebirth.gamepedia.com/Binding_of_Isaac:_Rebirth_Wiki
+
 https://www.streamline-studios.com/3-pillars-great-video-game-design/
+
 https://www.gamasutra.com/view/news/176917/The_4_pillars_of_making_a_truly_great_game_according_to_Insomniac.php
+
 https://www.youtube.com/watch?v=_EtxKlctpXw
